@@ -1,4 +1,4 @@
-# Simple Seafaring
+# Castaways' Simple Seafaring
 
 ## Setup
 
